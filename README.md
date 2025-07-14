@@ -37,19 +37,11 @@ I'm a **beginner full-stack developer** passionate about building clean, respons
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SergiyVitruk&show_icons=true&theme=tokyonight" alt="Sergiy's GitHub stats" width="49%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergiyVitruk&layout=compact&theme=tokyonight" alt="Top Languages" width="49%"/>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SergiyVitruk&theme=tokyonight&no-frame=true&title=Commit,Repositories,Stars,Followers"/>
-</p>
-
----
 
 ## 📫 Let's Connect
 
