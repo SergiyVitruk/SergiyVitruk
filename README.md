@@ -15,7 +15,7 @@ I'm a **beginner full-stack developer** passionate about building clean, respons
 ## 🛠 Tech Stack
 
 **Frontend:**
-- HTML5 / CSS3 / Tailwind
+- HTML5 / CSS3 / SCSS/SASS / Tailwind
 - JavaScript / TypeScript
 - React / Vite
 - REST APIs / Axios
