@@ -17,7 +17,8 @@ I'm a **beginner full-stack developer** passionate about building clean, respons
 **Frontend:**
 - HTML5 / CSS3 / SCSS/SASS / Tailwind
 - JavaScript / TypeScript
-- React / Vite
+- React / Next.js
+- Vite / Turbopack
 - REST APIs / Axios
 
 **Backend:**
