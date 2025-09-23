@@ -16,21 +16,20 @@ I'm a **beginner full-stack developer** passionate about building clean, respons
 
 **Frontend:**
 - HTML5 / CSS3 / SCSS/SASS / Tailwind
-- JavaScript / TypeScript
-- React / Next.js
+- JavaScript / TypeScript / React / Next.js
 - Vite / Turbopack
 - REST APIs / Axios
 
 **Backend:**
-- Node.js / Express (in progress)
-- MongoDB / PostgreSQL (learning)
+- Node.js / Express
+- MongoDB / PostgreSQL
 
 **Tools:**
 - Git & GitHub
-- Vite / Webpack
 - ESLint / Prettier
-- Netlify / GitHub Pages
+- Versel, Render
 - CI/CD basics
+- Prisma
 
 ---
 
