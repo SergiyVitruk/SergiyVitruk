@@ -1,14 +1,8 @@
 # 👋 Hi there, I'm Sergiy!
 
-I'm a **beginner full-stack developer** passionate about building clean, responsive, and user-friendly applications. With a strong foundation in JavaScript and a growing skillset in modern frontend and backend tools, I'm always learning and pushing my limits.
-
----
-
 ## 🧑‍💻 About Me
 
-- 🌱 Currently diving deep into **React**, **Node.js**, and **TypeScript**
-- 🎯 Goal: Become a confident full-stack developer with real-world experience
-- 🤝 Open to collaboration, especially on open-source or small web tools
+I'm a **beginner full-stack developer** passionate about building clean, responsive, and user-friendly applications. With a strong foundation in JavaScript and a growing skillset in modern frontend and backend tools, I'm always learning and pushing my limits.
 
 ---
 
