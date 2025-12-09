@@ -25,17 +25,6 @@ I'm a **beginner full-stack developer** passionate about building clean, respons
 - CI/CD basics
 - Prisma
 
----
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergiyVitruk&layout=compact&theme=tokyonight" alt="Top Languages" width="49%"/>
-</p>
-
----
-
 
 ## 📫 Let's Connect
 
